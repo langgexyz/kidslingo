@@ -1,0 +1,8 @@
+{
+  "name": "萌宝学外语 (Kid's Lingo)",
+  "description": "A fun, interactive app for toddlers (3-4 years) to learn foreign languages through photos, AI drawing, and chatting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
